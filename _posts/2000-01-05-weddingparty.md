@@ -1,7 +1,8 @@
 ---
-title: "Wedding Party"
-bg: '#86C5D4'
+title: Wedding Party
+bg: "#86C5D4"
 color: white
+published: true
 ---
 
 ### Wedding Party
@@ -11,5 +12,5 @@ color: white
 * Peter Bonventre - Co-best Person
 
 ####Bridal Party
-* Kathryn ... - Maid of Honor
-* Dan
+* Kathryn Tipton -  Maid of Honor
+* Dan Galus
