@@ -1,6 +1,6 @@
 ---
 title: "Wedding Party"
-bg: '#5872B2'
+bg: '#86C5D4'
 color: white
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Reception"
-bg: "#B0C7FF"
+bg: "#FE8F73"
 color: black
 ---
 

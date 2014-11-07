@@ -1,6 +1,6 @@
 ---
 title: "Our Registries"
-bg: "#876333"
+bg: "#A9B8BA"
 color: white
 ---
 

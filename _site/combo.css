@@ -497,42 +497,42 @@ html { box-sizing: border-box; }
   
   
   
-  nav .p-registries { border-color: #876333; }
-  #registries { background-color: #876333 !important; color: #f8f8f8; }
+  nav .p-registries { border-color: #A9B8BA; }
+  #registries { background-color: #A9B8BA !important; color: #f8f8f8; }
   #registries a { color: #f8f8f8; }
-  #registries .sectiondivider { color: #876333; }
+  #registries .sectiondivider { color: #A9B8BA; }
 
   
   
   
-  nav .p-weddingparty { border-color: #5872B2; }
-  #weddingparty { background-color: #5872B2 !important; color: #f8f8f8; }
+  nav .p-weddingparty { border-color: #86C5D4; }
+  #weddingparty { background-color: #86C5D4 !important; color: #f8f8f8; }
   #weddingparty a { color: #f8f8f8; }
-  #weddingparty .sectiondivider { color: #5872B2; }
+  #weddingparty .sectiondivider { color: #86C5D4; }
 
   
   
   
-  nav .p-reception { border-color: #B0C7FF; }
-  #reception { background-color: #B0C7FF !important; color: black; }
+  nav .p-reception { border-color: #FE8F73; }
+  #reception { background-color: #FE8F73 !important; color: black; }
   #reception a { color: black; }
-  #reception .sectiondivider { color: #B0C7FF; }
+  #reception .sectiondivider { color: #FE8F73; }
 
   
   
   
-  nav .p-ceremony { border-color: #876333; }
-  #ceremony { background-color: #876333 !important; color: #f8f8f8; }
+  nav .p-ceremony { border-color: #A9B8BA; }
+  #ceremony { background-color: #A9B8BA !important; color: #f8f8f8; }
   #ceremony a { color: #f8f8f8; }
-  #ceremony .sectiondivider { color: #876333; }
+  #ceremony .sectiondivider { color: #A9B8BA; }
 
   
   
   
-  nav .p-proposal { border-color: #97B4FF; }
-  #proposal { background-color: #97B4FF !important; color: #f8f8f8; }
+  nav .p-proposal { border-color: #86C5D4; }
+  #proposal { background-color: #86C5D4 !important; color: #f8f8f8; }
   #proposal a { color: #f8f8f8; }
-  #proposal .sectiondivider { color: #97B4FF; }
+  #proposal .sectiondivider { color: #86C5D4; }
 
   
   
