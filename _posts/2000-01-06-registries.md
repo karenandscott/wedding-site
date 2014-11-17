@@ -1,6 +1,6 @@
 ---
 title: Registries
-bg: "#A9B8BA"
+bg: "#FE8F73"
 color: white
 ---
 ## Check back in for our wedding registries.

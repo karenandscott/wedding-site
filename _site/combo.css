@@ -497,10 +497,18 @@ html { box-sizing: border-box; }
   
   
   
-  nav .p-registries { border-color: #A9B8BA; }
-  #registries { background-color: #A9B8BA !important; color: #f8f8f8; }
+  nav .p-registries { border-color: #FE8F73; }
+  #registries { background-color: #FE8F73 !important; color: #f8f8f8; }
   #registries a { color: #f8f8f8; }
-  #registries .sectiondivider { color: #A9B8BA; }
+  #registries .sectiondivider { color: #FE8F73; }
+
+  
+  
+  
+  nav .p-lodging { border-color: #A9B8BA; }
+  #lodging { background-color: #A9B8BA !important; color: #f8f8f8; }
+  #lodging a { color: #f8f8f8; }
+  #lodging .sectiondivider { color: #A9B8BA; }
 
   
   
