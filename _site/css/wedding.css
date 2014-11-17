@@ -85,6 +85,13 @@
     margin-right: auto;
   }
 }
+#proposal,
+#ceremony,
+#reception,
+#weddingparty,
+#registries {
+  padding: 100px 0;
+}
 #proposal img {
   *zoom: 1;
   float: left;

@@ -2,10 +2,9 @@
 title: Wedding Party
 bg: "#86C5D4"
 color: white
-published: true
 ---
 
-### Wedding Party
+## Wedding Party
 
 ####Groomspeople
 * Franny Yackso - Co-best Person
