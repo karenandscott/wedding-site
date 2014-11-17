@@ -7,20 +7,25 @@ nav ul li
 #intro
     padding 210px 0 100px 0
 
-#intro-screen
-    margin auto
+.disappear
+    +below(960px)
+        display none
+
+.appear
+    +above(960px)
+        display none
 
 .right
     column(1/2)
     text-align center
-    +mobile()
+    +below(520px)
         stack()
     p
         text-align center
 
 .left
     column(1/2)
-    +mobile()
+    +below(520px)
         stack()
 
 #proposal

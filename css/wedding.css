@@ -6,8 +6,15 @@
 #intro {
   padding: 210px 0 100px 0;
 }
-#intro-screen {
-  margin: auto;
+@media only screen and (max-width: 960px) {
+  .disappear {
+    display: none;
+  }
+}
+@media only screen and (min-width: 960px) {
+  .appear {
+    display: none;
+  }
 }
 .right {
   *zoom: 1;
@@ -30,7 +37,7 @@
 .right:last-child {
   margin-right: 0%;
 }
-@media only screen and (max-width: 400px) {
+@media only screen and (max-width: 520px) {
   .right {
     display: block;
     clear: both;
@@ -69,7 +76,7 @@
 .left:last-child {
   margin-right: 0%;
 }
-@media only screen and (max-width: 400px) {
+@media only screen and (max-width: 520px) {
   .left {
     display: block;
     clear: both;
