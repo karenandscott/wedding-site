@@ -521,18 +521,10 @@ html { box-sizing: border-box; }
   
   
   
-  nav .p-reception { border-color: #FE8F73; }
-  #reception { background-color: #FE8F73 !important; color: black; }
-  #reception a { color: black; }
-  #reception .sectiondivider { color: #FE8F73; }
-
-  
-  
-  
-  nav .p-ceremony { border-color: #A9B8BA; }
-  #ceremony { background-color: #A9B8BA !important; color: #f8f8f8; }
-  #ceremony a { color: #f8f8f8; }
-  #ceremony .sectiondivider { color: #A9B8BA; }
+  nav .p-venue { border-color: #A9B8BA; }
+  #venue { background-color: #A9B8BA !important; color: #f8f8f8; }
+  #venue a { color: #f8f8f8; }
+  #venue .sectiondivider { color: #A9B8BA; }
 
   
   
@@ -541,6 +533,14 @@ html { box-sizing: border-box; }
   #proposal { background-color: #86C5D4 !important; color: #f8f8f8; }
   #proposal a { color: #f8f8f8; }
   #proposal .sectiondivider { color: #86C5D4; }
+
+  
+  
+  
+  nav .p-story { border-color: #FE8F73; }
+  #story { background-color: #FE8F73 !important; color: black; }
+  #story a { color: black; }
+  #story .sectiondivider { color: #FE8F73; }
 
   
   
