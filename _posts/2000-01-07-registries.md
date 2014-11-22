@@ -4,4 +4,4 @@ bg: "#FE8F73"
 color: white
 ---
 
-## Check back in for our wedding registries.
+## Check back for our wedding registries.
