@@ -521,26 +521,26 @@ html { box-sizing: border-box; }
   
   
   
-  nav .p-venue { border-color: #A9B8BA; }
-  #venue { background-color: #A9B8BA !important; color: #f8f8f8; }
+  nav .p-venue { border-color: #FE8F73; }
+  #venue { background-color: #FE8F73 !important; color: #f8f8f8; }
   #venue a { color: #f8f8f8; }
-  #venue .sectiondivider { color: #A9B8BA; }
+  #venue .sectiondivider { color: #FE8F73; }
 
   
   
   
-  nav .p-proposal { border-color: #86C5D4; }
-  #proposal { background-color: #86C5D4 !important; color: #f8f8f8; }
+  nav .p-proposal { border-color: #A9B8BA; }
+  #proposal { background-color: #A9B8BA !important; color: #f8f8f8; }
   #proposal a { color: #f8f8f8; }
-  #proposal .sectiondivider { color: #86C5D4; }
+  #proposal .sectiondivider { color: #A9B8BA; }
 
   
   
   
-  nav .p-story { border-color: #FE8F73; }
-  #story { background-color: #FE8F73 !important; color: black; }
+  nav .p-story { border-color: #86C5D4; }
+  #story { background-color: #86C5D4 !important; color: black; }
   #story a { color: black; }
-  #story .sectiondivider { color: #FE8F73; }
+  #story .sectiondivider { color: #86C5D4; }
 
   
   
