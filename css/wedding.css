@@ -97,7 +97,9 @@
 #reception,
 #weddingparty,
 #lodging,
-#registries {
+#registries,
+#venue,
+#story {
   padding: 100px 0;
 }
 #proposal img {

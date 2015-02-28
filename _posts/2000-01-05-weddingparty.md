@@ -9,14 +9,13 @@ published: true
 
 ###Groomspeople
 
-Franny Yackso - Co-best Person
+####Franny Yackso - Co-best Person
 
-Peter Bonventre - Co-best Person
-
+####Peter Bonventre - Co-best Person
 
 
 ###Bridal Party
 
-Kathryn Tipton -  Maid of Honor
+####Kathryn Tipton -  Maid of Honor
 
-Dan Galus - Bridesperson
+####Dan Galus - Bridesperson
