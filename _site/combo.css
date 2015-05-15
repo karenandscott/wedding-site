@@ -497,10 +497,18 @@ html { box-sizing: border-box; }
   
   
   
-  nav .p-registries { border-color: #FE8F73; }
-  #registries { background-color: #FE8F73 !important; color: #f8f8f8; }
+  nav .p-registries { border-color: #86C5D4; }
+  #registries { background-color: #86C5D4 !important; color: #f8f8f8; }
   #registries a { color: #f8f8f8; }
-  #registries .sectiondivider { color: #FE8F73; }
+  #registries .sectiondivider { color: #86C5D4; }
+
+  
+  
+  
+  nav .p-todo { border-color: #FE8F73; }
+  #todo { background-color: #FE8F73 !important; color: #f8f8f8; }
+  #todo a { color: #f8f8f8; }
+  #todo .sectiondivider { color: #FE8F73; }
 
   
   
@@ -538,8 +546,8 @@ html { box-sizing: border-box; }
   
   
   nav .p-story { border-color: #86C5D4; }
-  #story { background-color: #86C5D4 !important; color: black; }
-  #story a { color: black; }
+  #story { background-color: #86C5D4 !important; color: #f8f8f8; }
+  #story a { color: #f8f8f8; }
   #story .sectiondivider { color: #86C5D4; }
 
   
