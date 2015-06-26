@@ -497,6 +497,14 @@ html { box-sizing: border-box; }
   
   
   
+  nav .p-greet { border-color: #A9B8BA; }
+  #greet { background-color: #A9B8BA !important; color: #f8f8f8; }
+  #greet a { color: #f8f8f8; }
+  #greet .sectiondivider { color: #A9B8BA; }
+
+  
+  
+  
   nav .p-registries { border-color: #86C5D4; }
   #registries { background-color: #86C5D4 !important; color: #f8f8f8; }
   #registries a { color: #f8f8f8; }

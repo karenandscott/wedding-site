@@ -1,5 +1,20 @@
+@media only screen and (max-width: 680px) {
+  nav ul li {
+    padding: 3px 3px;
+  }
+}
 #intro {
   padding: 210px 0 100px 0;
+}
+@media only screen and (max-width: 960px) {
+  .disappear {
+    display: none;
+  }
+}
+@media only screen and (min-width: 960px) {
+  .appear {
+    display: none;
+  }
 }
 .right {
   *zoom: 1;
@@ -10,7 +25,6 @@
   margin-left: 0%;
   margin-right: 3%;
   text-align: center;
-below(520px)
 }
 .right:before,
 .right:after {
@@ -23,6 +37,22 @@ below(520px)
 .right:last-child {
   margin-right: 0%;
 }
+@media only screen and (max-width: 520px) {
+  .right {
+    display: block;
+    clear: both;
+    float: none;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .right:first-child {
+    margin-left: auto;
+  }
+  .right:last-child {
+    margin-right: auto;
+  }
+}
 .right p {
   text-align: center;
 }
@@ -34,7 +64,6 @@ below(520px)
   width: 48.5%;
   margin-left: 0%;
   margin-right: 3%;
-below(520px)
 }
 .left:before,
 .left:after {
@@ -47,6 +76,22 @@ below(520px)
 .left:last-child {
   margin-right: 0%;
 }
+@media only screen and (max-width: 520px) {
+  .left {
+    display: block;
+    clear: both;
+    float: none;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .left:first-child {
+    margin-left: auto;
+  }
+  .left:last-child {
+    margin-right: auto;
+  }
+}
 #proposal,
 #ceremony,
 #reception,
@@ -55,7 +100,8 @@ below(520px)
 #registries,
 #venue,
 #story,
-#todo {
+#todo,
+#greet {
   padding: 100px 0;
 }
 #proposal img {
@@ -66,7 +112,6 @@ below(520px)
   width: 48.5%;
   margin-left: 0%;
   margin-right: 3%;
-below(680px)
 }
 #proposal img:before,
 #proposal img:after {
@@ -82,4 +127,21 @@ below(680px)
 }
 #proposal img:nth-child(2n+1) {
   clear: both;
+}
+@media only screen and (max-width: 680px) {
+  #proposal img {
+    display: block;
+    clear: both;
+    float: none;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px 0;
+  }
+  #proposal img:first-child {
+    margin-left: auto;
+  }
+  #proposal img:last-child {
+    margin-right: auto;
+  }
 }
